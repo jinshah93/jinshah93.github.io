@@ -1,5 +1,5 @@
-### VK46
-Portfolio to showcase professional and personal information - [vk46.github.io](https://vk46.github.io/)
+### jinshah93
+Portfolio to showcase professional and personal information - [jinshah93.github.io](https://jinshah93.github.io/)
 
 ### Built With
 
